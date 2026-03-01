@@ -1,60 +1,47 @@
-<h1 align="center">👋 Hi, I'm Wardana</h1>
+# Wardana
+
+Systems Engineer | Linux Enthusiast | Automation Developer
+
+## Overview
+
+I specialize in Linux systems administration, scripting, and automation. My work focuses on building efficient tools and exploring system-level operations to improve workflows and infrastructure reliability.
+
+## Technical Expertise
+
+**Core Competencies:**
+- Linux system administration (desktop, server, homelab environments)
+- Shell scripting and automation development
+- Network infrastructure and firewall configuration
+- Virtualization technologies (QEMU/KVM)
+- Security implementation and hardening
+- Programming and software development
+
+**Technical Stack:**
+- **Operating Systems:** Linux
+- **Scripting Languages:** Bash, Shell
+- **Programming Languages:** Python, JavaScript (Node.js), PHP
+- **Virtualization:** QEMU, KVM
+- **Containerization:** Docker, lightweight container services
+
+## Repository Content
+
+This repository contains:
+- Linux automation scripts and utilities
+- Network configuration and proxy tools
+- Homelab infrastructure projects
+- System-level programming explorations
+- Technical documentation and implementation guides
+
+## GitHub Statistics
 
 <p align="center">
-  🐧 Linux tinkerer • ⚙️ scripting & automation • 🌐 networking  
-  <br/>
-  🧪 homelab • 🖥️ low-level systems • from <code>null</code> → <code>tty</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=nulltty&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <i>Exploring how systems really work, one script at a time.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulltty&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+## Approach
 
-## 🧠 About Me
-- 🐧 Daily Linux user (desktop, server, homelab)
-- ⚙️ Build **scripts & small tools** to automate repetitive tasks
-- 🌐 Interested in **networking, firewall, virtualization, secuirty, programming**
-- 🖥️ Curious about **low-level system behavior**
-
-> I learn systems by breaking them, fixing them, and understanding why they broke.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Systems & Programming
-- 🐧 Linux
-- ⚙️ Bash / Shell scripting
-- 🐍 Python
-- 🌐 Node.js
-- 🧪 Virtualization: QEMU / KVM
-- 📦 Containers & lightweight services
-
----
-
-## 📂 What You'll Find in My Repos
-- ⚙️ Linux automation scripts
-- 🌐 Networking & proxy utilities
-- 🧪 Homelab experiments & notes
-- 🖥️ Low-level system explorations
-- 📘 Learning notes & documentation
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nulltty&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nulltty&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧬 Philosophy
-```text
-Everything starts from null.
-Understanding comes when it reaches tty.
+My methodology emphasizes hands-on learning through practical implementation, debugging, and understanding system behavior at a fundamental level
